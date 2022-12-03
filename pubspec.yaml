@@ -5,14 +5,13 @@ homepage: https://github.com/VNAPNIC/web3-provider
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
-  flutter: ">=1.17.0"
 
 dependencies:
   flutter:
     sdk: flutter
 
-  decimal: ^2.3.0
-  flutter_inappwebview: ^5.7.1
+  decimal: any
+  flutter_inappwebview: any
 
 dev_dependencies:
   flutter_test:
